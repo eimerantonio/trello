@@ -17,7 +17,7 @@
   </div>
   <div class="field">
     <%= f.label :about %><br>
-    <%= f.text_field :about %>
+    <%= f.text_area :about %>
   </div>
   <div class="field">
     <%= f.label :spendtime %><br>
@@ -37,8 +37,8 @@
   </div>
   <div class="field">
     <%= f.label :status %><br>
-    <%= radio_button_tag 'status', 'Incompleto', true%> Incompleto
-    <%= radio_button_tag 'status', 'Completado'%> Completo
+    <%= radio_button_tag 'status', '0', true%> Incompleto
+    <%= radio_button_tag 'status', '1'%> Completo
   </div>
   <div class="actions">
     <%= f.submit %>
