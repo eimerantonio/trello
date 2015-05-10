@@ -1,0 +1,32 @@
+es:
+    activerecord:
+        attributes:
+            job:
+            
+            
+        
+        
+            
+            
+    "Listing jobs": "Lista de trabajos"
+    "Title": "Titulo"
+    "Spend Time": "Duracion"
+    "Start Time": "Tiempo Incial"
+    "Finish Time": "Tiempo Final"
+    "Executer": "Ejecutor"
+    "Status": "Estado"
+    "Show": "Mostrar"
+    "Edit": "Editar"
+    "Destroy": "Eliminar"
+    "Log Out": "salir"
+    "Sign Up": "Registrarse"
+    "Sign In": "Iniciar Secion"
+    
+    "New job": "Nuevo Trabajo"
+    "title": "Titulo"
+    "about": "Acerca de"
+    "spendtime": "Duracion"
+    "starttime": "Tiempo Inicial"
+    "finishtime": "Tiempo Final"
+    "user_id": "Nombre de Usuario"
+    

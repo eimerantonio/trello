@@ -12,27 +12,27 @@
   <% end %>
 
   <div class="field">
-    <%= f.label :title %><br>
+    <%= t('title') %><br>
     <%= f.text_field :title %>
   </div>
   <div class="field">
-    <%= f.label :about %><br>
+    <%= t('about') %><br>
     <%= f.text_area :about %>
   </div>
   <div class="field">
-    <%= f.label :spendtime %><br>
+    <%= t('spendtime') %><br>
     <%= f.datetime_select :spendtime %>
   </div>
   <div class="field">
-    <%= f.label :starttime %><br>
+    <%= t('starttime') %><br>
     <%= f.datetime_select :starttime %>
   </div>
   <div class="field">
-    <%= f.label :finishtime %><br>
+    <%= t('finishtime') %><br>
     <%= f.datetime_select :finishtime %>
   </div>
   <div class="field">
-    <%= f.label :user_id %><br>
+    <%= t('user_id') %><br>
     <%= f.select :user_id, options_for_select(@users) %>
   </div>
   <div class="field">

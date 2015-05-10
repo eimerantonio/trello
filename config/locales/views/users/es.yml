@@ -1,0 +1,19 @@
+es:
+    activerecord:
+        attributes:
+            user:
+    
+    
+    
+    
+    
+    
+    "Sign Up": "Registrarse"
+    "username": "Nombre de Usuario"
+    "name": "Nombre"
+    "lastname": "Apellido"
+    "email": "Correo Electronico"
+    "password": "Contraseña"
+    "password_confirmation": "Confirmar contraseña"
+    "Sign up": "registrar"
+   
